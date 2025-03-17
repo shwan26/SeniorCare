@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Senior Care</string>
+
+    <!-- Button strings -->
+    <string name="create_account">สร้างบัญชี</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="patient">ผู้ป่วย</string>
+    <string name="doctor">หมอ</string>
+    <string name="request">ขอ</string>
+    <string name="request_again">ขออีกครั้ง</string>
+    <string name="accept">ยอมรับ</string>
+    <string name="reject">ปฏิเสธ</string>
+
+    <!-- Error messages -->
+    <string name="password_mismatch">รหัสผ่านไม่ตรงกัน</string>
+    <string name="account_creation_failed">การสร้างบัญชีล้มเหลว</string>
+    <string name="failed_to_save_user_info">ไม่สามารถบันทึกข้อมูลผู้ใช้ได้</string>
+    <string name="failed_to_fetch_patient_name">ไม่สามารถดึงชื่อผู้ป่วยได้: %1$s</string>
+
+    <!-- Title Strings -->
+    <string name="role_selection">เลือกบทบาท</string>
+    <string name="create_account_as">สร้างบัญชีเป็น %1$s</string>
+    <string name="login_as">เข้าสู่ระบบเป็น</string>
+    <string name="login_for_role">เข้าสู่ระบบสำหรับ %1$s</string>
+
+    <!-- Labels -->
+    <string name="name">ชื่อ</string>
+    <string name="email">อีเมล</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="confirm_password">ยืนยันรหัสผ่าน</string>
+
+    <!-- Language switcher -->
+    <string name="language_english">อังกฤษ</string>
+    <string name="language_thai">ไทย</string>
+
+    <!-- General messages -->
+    <string name="no_requests_available">ไม่มีคำขอ</string>
+    <string name="request_accepted">คำขอยอมรับแล้ว</string>
+    <string name="request_rejected">คำขอถูกปฏิเสธ</string>
+
+    <!-- Strings for buttons and labels -->
+    <string name="welcome_message">ยินดีต้อนรับ, %1$s</string>
+    <string name="select_doctor">เลือกหมอ</string>
+    <string name="live_consultation">การปรึกษาออนไลน์</string>
+    <string name="logout">ออกจากระบบ</string>
+
+    <!-- Error messages -->
+    <string name="language_changed">เปลี่ยนภาษาแล้ว</string>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Senior Care</string>
+
+    <!-- Button strings -->
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="patient">Patient</string>
+    <string name="doctor">Doctor</string>
+    <string name="request">Request</string>
+    <string name="request_again">Request Again</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+
+    <!-- Error messages -->
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="account_creation_failed">Account creation failed</string>
+    <string name="failed_to_save_user_info">Failed to save user info.</string>
+    <string name="failed_to_fetch_patient_name">Failed to fetch patient name: %1$s</string>
+
+    <!-- Title Strings -->
+    <string name="role_selection">Role Selection</string>
+    <string name="create_account_as">Create Account as %1$s</string>
+    <string name="login_as">Login as</string>
+    <string name="login_for_role">Login for %1$s</string>
+
+    <!-- Labels -->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- Language switcher -->
+    <string name="language_english">English</string>
+    <string name="language_thai">ไทย</string>
+
+    <!-- General messages -->
+    <string name="no_requests_available">No requests available</string>
+    <string name="request_accepted">Request accepted</string>
+    <string name="request_rejected">Request rejected</string>
+
+    <!-- Strings for buttons and labels -->
+    <string name="welcome_message">Welcome, %1$s</string>
+    <string name="select_doctor">Select Doctor</string>
+    <string name="live_consultation">Live Consultation</string>
+    <string name="logout">Logout</string>
+
+    <!-- Error messages -->
+    <string name="language_changed">Language changed successfully</string>
+
+</resources>
